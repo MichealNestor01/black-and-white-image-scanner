@@ -7,6 +7,6 @@ It will use this count to produce a heat map of the density of black pixels as w
 Allow a few minutes for the program to run in which time it will be unresponsive.
 
 Required labels:
--tkinter
--datetime
--PIL
+- tkinter
+- datetime
+- PIL
